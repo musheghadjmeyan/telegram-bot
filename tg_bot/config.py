@@ -1,0 +1,5 @@
+BOT_TOKEN = "8953871596:AAFQsU6vvGOqRlltlJk3VG7X-QEavXNKETY"
+
+CHANNEL_ID = -1003875709679  # ID твоего приватного канала
+
+ADMIN_ID = 7373940108 # твой Telegram ID
