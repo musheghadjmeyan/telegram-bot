@@ -1,5 +1,5 @@
 import os
-print(os.getenv("BOT_TOKEN"))
+
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 CHANNEL_ID = -1003875709679  # ID твоего приватного канала
